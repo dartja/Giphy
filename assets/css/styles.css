@@ -1,0 +1,14 @@
+
+    button,
+    div,
+    form,
+    input,
+    label {
+      margin: 10px;
+    }
+    img {
+      display: inline-block;
+    }
+    div.animal-item {
+      display: inline-block;
+    }
